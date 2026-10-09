@@ -1,11 +1,9 @@
 'use strict';
 
-/* ===== CONFIGURAÇÃO — ajuste aqui ===== */
 const CONFIG = {
   whatsapp: '5519995956039',
   instagram: 'https://www.instagram.com/diskaguaevida2026/',
-  // Cole aqui o link de avaliação do Google (Perfil da Empresa > "Pedir avaliações")
-  reviewUrl: 'https://g.page/r/COLE-SEU-LINK/review',
+  reviewUrl: 'https://search.google.com/local/writereview?placeid=ChIJN5WA_Y0PuJQRhcuEMJzcbgI',
   endereco: 'Rua Coronel Manoel Leme, 1104, Jardim Belém, Descalvado, SP'
 };
 
